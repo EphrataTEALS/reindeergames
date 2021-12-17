@@ -16,7 +16,8 @@
 1. Go to https://github.com/EphrataTEALS/reindeergames
 2. Find the game you want to play in you classmates folder
 
-In your own Repo (like ephrataTEALS2021-jackson-lafferty or ephrataTEALS2021-AlexisPark0302)
+In your own Repo (like ephrataTEALS2021-jackson-lafferty or ephrataTEALS2021-AlexisPark0302 etc.)
+
 3. Open up your codespace
 4. Create a new Java file called <NameOfTheGamesCLass>.java at the location of your choice (Note: Remember the name of the class and the file name must match)
 5. Copy and paste the code from your classmates game into the file you just created
