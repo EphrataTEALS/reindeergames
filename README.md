@@ -7,5 +7,5 @@ Place to put your Game Projects for other students to play
 3) Navigate to your folder in the Games Folder
 4) Create a new Java file called <nameOfYourClass>.java
 5) Copy and paste the code from your game into the file you just created
-6) 
+6) Go to the GitHub icon, enter a name for the message commit, and click the check mark
 
