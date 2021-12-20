@@ -1,4 +1,3 @@
-package labs.Game;
 import java.util.*;
 
 public class Games {
